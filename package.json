@@ -1,0 +1,17 @@
+{
+  "name": "lodash-recursive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/recursive.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
